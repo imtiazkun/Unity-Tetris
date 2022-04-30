@@ -4,6 +4,7 @@
 Tetris made in Unity with a little twist
 
 
+
 ### Contents
 - Block Prefabs
 - Post Processing
@@ -11,8 +12,20 @@ Tetris made in Unity with a little twist
 - Rationale font (Text Mesh Pro)
 
 
+
+### Activity
+- [x] Gameplay
+- [x] Gameover
+- [ ] Game Start Menu
+- [ ] Game Exit UI
+- [x] Post Processing
+
+
+
+
 ### Contributor
 **Imtiaz Al Shariar** - _Frontend Web Develoepr & Unity Game Developer_
+
 
 ### Social
  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram" width="30"/>](https://www.instagram.com/shariarsensei/) 
