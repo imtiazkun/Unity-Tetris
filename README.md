@@ -12,5 +12,5 @@ Tetris made in Unity with a little twist
 
 
 ### Contributor
-** Imtiaz Al Shariar **
+**Imtiaz Al Shariar**
 Frontend Web Develoepr & Unity Game Developer
