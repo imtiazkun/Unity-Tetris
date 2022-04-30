@@ -9,3 +9,8 @@ Tetris made in Unity with a little twist
 - Post Processing
 - C# Scripts
 - Rationale font (Text Mesh Pro)
+
+
+### Contributor
+** Imtiaz Al Shariar **
+Frontend Web Develoepr & Unity Game Developer
